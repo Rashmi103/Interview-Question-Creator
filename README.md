@@ -7,7 +7,10 @@ How to run:
 conda create -n interview python=3.10 -y
 
 2. Activate the Environment:
+conda activate base
 conda activate interview
+
+Note : you need to activate base and interview environment in cmd not terminal.
 
 Install packages through Requirements file :
 --------------------------------------------

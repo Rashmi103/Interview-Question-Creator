@@ -17,6 +17,7 @@ conda activate interview
 2. Activate the environment
 
 ```bash
+conda activate base
 conda activate interview
 ```
 
